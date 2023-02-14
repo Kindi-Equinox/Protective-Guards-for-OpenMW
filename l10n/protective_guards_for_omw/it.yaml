@@ -1,0 +1,25 @@
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: Opzioni
+setings_modCategory1_setting1_desc: Abilita protezioni protettive
+setings_modCategory1_setting1_name: Guardie Protettive
+setings_modCategory1_setting2_desc: Il raggio di ricerca per cercare le guardie vicine
+  nelle celle esterne
+setings_modCategory1_setting2_name: Cerca Guard Distance Esterni
+setings_modCategory1_setting3_desc: Il raggio di ricerca per cercare le guardie vicine
+  nelle celle interne
+setings_modCategory1_setting3_name: Cerca Guard Distance Interiors
+setings_modCategory1_setting4_desc: Anche le guardie nelle celle adiacenti vicine
+  verranno a proteggere. Richiede Inseguimento
+setings_modCategory1_setting4_name: Cerca la guardia nelle celle adiacenti vicine
+setings_modCategory1_setting5_desc: "Quale classe di NPC \xE8 considerata una classe\
+  \ \"Guardia\"."
+setings_modCategory1_setting5_name: Cerca Guardia di classe
+setings_modCategory2_desc: "Guardie protettive \xE8 disabilitato per queste celle"
+setings_modCategory2_name: Celle nella lista nera
+setings_modCategory3_name: Debug
+setings_modCategory3_setting1_desc: Mostra il nome della guardia, la classe e la cella
+setings_modCategory3_setting1_name: Mostra i dettagli della guardia
+settings_modDesc: 'Versione 0.18
+
+  Le guardie proteggono dagli attori ostili'
+settings_modName: Guardie Protettive

@@ -1,0 +1,27 @@
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: "Op\u021Biuni"
+setings_modCategory1_setting1_desc: "Activa\u021Bi G\u0103rzile de protec\u021Bie"
+setings_modCategory1_setting1_name: "G\u0103rzi de protec\u021Bie"
+setings_modCategory1_setting2_desc: "Raza de c\u0103utare pentru c\u0103utarea paznicilor\
+  \ din apropiere \xEEn celule exterioare"
+setings_modCategory1_setting2_name: "Caut\u0103 gard\u0103 distan\u021B\u0103 exterioare"
+setings_modCategory1_setting3_desc: "Raza de c\u0103utare pentru c\u0103utarea gardienilor\
+  \ din apropiere \xEEn celulele interioare"
+setings_modCategory1_setting3_name: "Caut\u0103 interioare la distan\u021B\u0103 de\
+  \ gard\u0103"
+setings_modCategory1_setting4_desc: "Gardienii din celulele adiacente din apropiere\
+  \ vor veni, de asemenea, s\u0103 protejeze. Necesit\u0103 urm\u0103rire"
+setings_modCategory1_setting4_name: "Caut\u0103 Garda \xEEn celulele adiacente din\
+  \ apropiere"
+setings_modCategory1_setting5_desc: "Ce clas\u0103 de NPC este considerat\u0103 o\
+  \ clas\u0103 \u201EGard\u0103\u201D."
+setings_modCategory1_setting5_name: "Caut\u0103 Garda de clas\u0103"
+setings_modCategory2_desc: Protective Guards este dezactivat pentru aceste celule
+setings_modCategory2_name: "Celulele incluse pe lista neagr\u0103"
+setings_modCategory3_name: "Depana\u021Bi"
+setings_modCategory3_setting1_desc: "Afi\u0219a\u021Bi numele, clasa \u0219i celula\
+  \ gardianului"
+setings_modCategory3_setting1_name: "Afi\u0219a\u021Bi detaliile de gard\u0103"
+settings_modDesc: "Versiunea 0.18\nGardienii protejeaz\u0103 \xEEmpotriva actorilor\
+  \ ostili"
+settings_modName: "G\u0103rzi de protec\u021Bie"

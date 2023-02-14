@@ -1,0 +1,22 @@
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: Alternativer
+setings_modCategory1_setting1_desc: Aktiver beskyttelsesvakter
+setings_modCategory1_setting1_name: Beskyttende vakter
+setings_modCategory1_setting2_desc: "S\xF8keradius for s\xF8king av n\xE6rliggende\
+  \ vakter i ytre celler"
+setings_modCategory1_setting2_name: "S\xF8k Guard Distance Exteriors"
+setings_modCategory1_setting3_desc: "S\xF8keradius for s\xF8king av n\xE6rliggende\
+  \ vakter i innvendige celler"
+setings_modCategory1_setting3_name: "S\xF8k Guard Distance Interi\xF8r"
+setings_modCategory1_setting4_desc: "Vakter i n\xE6rliggende tilst\xF8tende celler\
+  \ vil ogs\xE5 komme for \xE5 beskytte. Krever forf\xF8lgelse"
+setings_modCategory1_setting4_name: "S\xF8kevakt i n\xE6rliggende tilst\xF8tende celler"
+setings_modCategory1_setting5_desc: Hvilken klasse av NPC regnes som en 'vakt'-klasse
+setings_modCategory1_setting5_name: Search Guard of Class
+setings_modCategory2_desc: Protective Guards er deaktivert for disse cellene
+setings_modCategory2_name: Svartelistede celler
+setings_modCategory3_name: "Feils\xF8k"
+setings_modCategory3_setting1_desc: Vis vaktnavn, klasse og celle
+setings_modCategory3_setting1_name: Vis vaktdetaljer
+settings_modDesc: "Versjon 0.18\nVakter beskytter mot fiendtlige akt\xF8rer"
+settings_modName: Beskyttende vakter

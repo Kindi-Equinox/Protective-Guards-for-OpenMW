@@ -1,0 +1,6 @@
+GLOBAL: scripts/protective_guards_for_omw/global.lua
+NPC, CREATURE: scripts/protective_guards_for_omw/aggressor.lua
+CUSTOM, NPC: scripts/protective_guards_for_omw/protect.lua
+PLAYER: scripts/protective_guards_for_omw/player.lua
+PLAYER: scripts/protective_guards_for_omw/settings.lua
+

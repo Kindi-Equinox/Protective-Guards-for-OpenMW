@@ -1,0 +1,24 @@
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: Opcioj
+setings_modCategory1_setting1_desc: Ebligu Protektajn Gardistojn
+setings_modCategory1_setting1_name: Protektaj Gardistoj
+setings_modCategory1_setting2_desc: "La ser\u0109radiuso por ser\u0109ado de proksimaj\
+  \ gardistoj en eksteraj \u0109eloj"
+setings_modCategory1_setting2_name: "Ser\u0109u Gardisto Distanco Eksterojn"
+setings_modCategory1_setting3_desc: "La ser\u0109radiuso por ser\u0109ado de proksimaj\
+  \ gardistoj en internaj \u0109eloj"
+setings_modCategory1_setting3_name: "Ser\u0109u Guard Distance Interiors"
+setings_modCategory1_setting4_desc: "Gardistoj en proksimaj apudaj \u0109eloj anka\u016D\
+  \ venos protekti. Postulas Postkuro"
+setings_modCategory1_setting4_name: "Ser\u0109u Gardisto En Proksimaj Najbaraj \u0108\
+  eloj"
+setings_modCategory1_setting5_desc: Kia klaso de NPC estas konsiderata kiel "Gardisto".
+setings_modCategory1_setting5_name: "Ser\u0109u Gardisto de Klaso"
+setings_modCategory2_desc: "Protektaj Gardistoj estas mal\u015Daltita por \u0109i\
+  \ tiuj \u0109eloj"
+setings_modCategory2_name: "Nigraj Listo \u0108eloj"
+setings_modCategory3_name: Sencimigi
+setings_modCategory3_setting1_desc: "Montru Gvardian Nomon, Klason kaj \u0108elon"
+setings_modCategory3_setting1_name: Montru Gvardiajn Detalojn
+settings_modDesc: "Versio 0.18\nGardistoj protektas kontra\u016D malamikaj aktoroj"
+settings_modName: Protektaj Gardistoj

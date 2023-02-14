@@ -1,0 +1,23 @@
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: Optionen
+setings_modCategory1_setting1_desc: Schutzvorrichtungen aktivieren
+setings_modCategory1_setting1_name: Schutzvorrichtungen
+setings_modCategory1_setting2_desc: "Der Suchradius f\xFCr die Suche nach Wachen in\
+  \ der N\xE4he in Au\xDFenzellen"
+setings_modCategory1_setting2_name: Suchen Sie Guard Distance Exteriors
+setings_modCategory1_setting3_desc: "Der Suchradius f\xFCr die Suche nach Wachen in\
+  \ der N\xE4he in Innenr\xE4umen"
+setings_modCategory1_setting3_name: Suchen Sie Guard Distance Interiors
+setings_modCategory1_setting4_desc: Wachen in nahe gelegenen benachbarten Zellen werden
+  ebenfalls zum Schutz kommen. Erfordert Verfolgung
+setings_modCategory1_setting4_name: Suche Wache in nahegelegenen benachbarten Zellen
+setings_modCategory1_setting5_desc: "Welche NPC-Klasse wird als \u201EWache\u201C\
+  -Klasse betrachtet?"
+setings_modCategory1_setting5_name: "Suche W\xE4chter der Klasse"
+setings_modCategory2_desc: "Protective Guards ist f\xFCr diese Zellen deaktiviert"
+setings_modCategory2_name: Zellen auf der schwarzen Liste
+setings_modCategory3_name: Debuggen
+setings_modCategory3_setting1_desc: Name, Klasse und Zelle des Guards anzeigen
+setings_modCategory3_setting1_name: Guard-Details anzeigen
+settings_modDesc: "Version 0.18\nGuards sch\xFCtzen vor feindlichen Akteuren"
+settings_modName: Schutzvorrichtungen

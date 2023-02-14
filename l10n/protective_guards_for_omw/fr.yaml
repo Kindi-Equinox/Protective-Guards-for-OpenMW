@@ -1,0 +1,27 @@
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: Choix
+setings_modCategory1_setting1_desc: Activer les gardes de protection
+setings_modCategory1_setting1_name: Gardes de protection
+setings_modCategory1_setting2_desc: "Le rayon de recherche pour rechercher les gardes\
+  \ \xE0 proximit\xE9 dans les cellules ext\xE9rieures"
+setings_modCategory1_setting2_name: "Rechercher des ext\xE9rieurs \xE0 distance de\
+  \ garde"
+setings_modCategory1_setting3_desc: "Le rayon de recherche pour rechercher les gardes\
+  \ \xE0 proximit\xE9 dans les cellules int\xE9rieures"
+setings_modCategory1_setting3_name: "Rechercher des int\xE9rieurs \xE0 distance de\
+  \ garde"
+setings_modCategory1_setting4_desc: "Les gardes des cellules adjacentes voisines viendront\
+  \ \xE9galement prot\xE9ger. N\xE9cessite une poursuite"
+setings_modCategory1_setting4_name: "Rechercher un garde dans les cellules adjacentes\
+  \ \xE0 proximit\xE9"
+setings_modCategory1_setting5_desc: "Quelle classe de PNJ est consid\xE9r\xE9e comme\
+  \ une classe \"Garde\""
+setings_modCategory1_setting5_name: Recherche Garde de classe
+setings_modCategory2_desc: "Les gardes de protection sont d\xE9sactiv\xE9s pour ces\
+  \ cellules"
+setings_modCategory2_name: Cellules sur liste noire
+setings_modCategory3_name: "D\xE9boguer"
+setings_modCategory3_setting1_desc: Afficher le nom, la classe et la cellule du garde
+setings_modCategory3_setting1_name: "Afficher les d\xE9tails de la garde"
+settings_modDesc: "Version 0.18\nLes gardes prot\xE8gent contre les acteurs hostiles"
+settings_modName: Gardes de protection

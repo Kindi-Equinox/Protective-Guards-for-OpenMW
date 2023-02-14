@@ -1,0 +1,24 @@
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: Pilihan
+setings_modCategory1_setting1_desc: Dayakan Pengawal Pelindung
+setings_modCategory1_setting1_name: Pengawal Pelindung
+setings_modCategory1_setting2_desc: Jejari carian untuk mencari pengawal berdekatan
+  dalam sel luar
+setings_modCategory1_setting2_name: Cari Bahagian Luar Jarak Pengawal
+setings_modCategory1_setting3_desc: Jejari carian untuk mencari pengawal berdekatan
+  dalam sel dalaman
+setings_modCategory1_setting3_name: Cari Bahagian Dalaman Jarak Pengawal
+setings_modCategory1_setting4_desc: Pengawal dalam sel berdekatan yang berdekatan
+  juga akan datang untuk melindungi. Memerlukan Pengejaran
+setings_modCategory1_setting4_name: Cari Pengawal Dalam Sel Berdekatan Bersebelahan
+setings_modCategory1_setting5_desc: Apakah kelas NPC yang dianggap sebagai kelas 'Pengawal'
+setings_modCategory1_setting5_name: Cari Pengawal Kelas
+setings_modCategory2_desc: Pengawal Pelindung dilumpuhkan untuk sel ini
+setings_modCategory2_name: Sel Disenarai Hitam
+setings_modCategory3_name: Nyahpepijat
+setings_modCategory3_setting1_desc: Tunjukkan Nama Pengawal, Kelas dan Sel
+setings_modCategory3_setting1_name: Tunjukkan Butiran Pengawal
+settings_modDesc: 'Versi 0.18
+
+  Pengawal melindungi daripada pelakon yang bermusuhan'
+settings_modName: Pengawal Pelindung

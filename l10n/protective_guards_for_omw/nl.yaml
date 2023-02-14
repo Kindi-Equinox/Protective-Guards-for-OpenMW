@@ -1,0 +1,24 @@
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: Opties
+setings_modCategory1_setting1_desc: Schakel beschermende bewakers in
+setings_modCategory1_setting1_name: Beschermende bewakers
+setings_modCategory1_setting2_desc: De zoekradius voor het zoeken naar nabijgelegen
+  bewakers in buitencellen
+setings_modCategory1_setting2_name: Zoek Guard Distance-buitenkanten
+setings_modCategory1_setting3_desc: De zoekradius voor het zoeken naar nabijgelegen
+  bewakers in binnencellen
+setings_modCategory1_setting3_name: Zoek Guard Distance Interiors
+setings_modCategory1_setting4_desc: Bewakers in nabijgelegen aangrenzende cellen zullen
+  ook komen beschermen. Vereist achtervolging
+setings_modCategory1_setting4_name: Zoek bewaker in nabijgelegen aangrenzende cellen
+setings_modCategory1_setting5_desc: Welke klasse van NPC wordt beschouwd als een 'Bewaker'-klasse
+setings_modCategory1_setting5_name: Doorzoek de klassebewaker
+setings_modCategory2_desc: Beschermende bewakers zijn uitgeschakeld voor deze cellen
+setings_modCategory2_name: Op de zwarte lijst geplaatste cellen
+setings_modCategory3_name: Debuggen
+setings_modCategory3_setting1_desc: Toon Bewaker Naam, Klasse en Cel
+setings_modCategory3_setting1_name: Bewakingsdetails tonen
+settings_modDesc: 'Versie 0.18
+
+  Bewakers beschermen tegen vijandige acteurs'
+settings_modName: Beschermende bewakers

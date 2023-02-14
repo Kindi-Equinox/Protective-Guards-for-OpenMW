@@ -1,0 +1,21 @@
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: 选项
+setings_modCategory1_setting1_desc: 打开或关闭模组
+setings_modCategory1_setting1_name: 模组状态
+setings_modCategory1_setting2_desc: 在外部牢房中搜索附近守卫的搜索半径
+setings_modCategory1_setting2_name: 搜索防护距离外部
+setings_modCategory1_setting3_desc: 在内部牢房中搜索附近守卫的搜索半径
+setings_modCategory1_setting3_name: 搜索警卫距离内部
+setings_modCategory1_setting4_desc: 附近牢房内的警卫也会出来保护。需要追求
+setings_modCategory1_setting4_name: 在附近的单元格中搜索警卫
+setings_modCategory1_setting5_desc: 什么等级的 NPC 被视为“守卫”等级。使用非字母数字字符分隔条目
+setings_modCategory1_setting5_name: 搜索类警卫
+setings_modCategory2_desc: 这些牢房中的守卫不会保护
+setings_modCategory2_name: 黑名单细胞列表
+setings_modCategory3_name: 调试
+setings_modCategory3_setting1_desc: 显示警卫名称、类别和单元格
+setings_modCategory3_setting1_name: 显示警卫详细信息
+settings_modDesc: '0.17 版
+
+  警卫防止敌对行动者'
+settings_modName: 防护罩

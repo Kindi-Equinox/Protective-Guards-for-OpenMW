@@ -1,0 +1,22 @@
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: alternativ
+setings_modCategory1_setting1_desc: Aktivera skyddsvakter
+setings_modCategory1_setting1_name: Skyddsvakter
+setings_modCategory1_setting2_desc: "S\xF6kradien f\xF6r genoms\xF6kning av n\xE4\
+  rliggande vakter i ytterceller"
+setings_modCategory1_setting2_name: "S\xF6k Guard Distance Exteriors"
+setings_modCategory1_setting3_desc: "S\xF6kradien f\xF6r s\xF6kning av n\xE4rliggande\
+  \ vakter i inre celler"
+setings_modCategory1_setting3_name: "S\xF6k Guard Distance Interiors"
+setings_modCategory1_setting4_desc: "Vakter i n\xE4rliggande intilliggande celler\
+  \ kommer ocks\xE5 att skydda. Kr\xE4ver Pursuit"
+setings_modCategory1_setting4_name: "S\xF6k vakt i n\xE4rliggande intilliggande celler"
+setings_modCategory1_setting5_desc: Vilken klass av NPC anses vara en "Guard"-klass
+setings_modCategory1_setting5_name: "S\xF6k Guard of Class"
+setings_modCategory2_desc: "Protective Guards \xE4r inaktiverat f\xF6r dessa celler"
+setings_modCategory2_name: Svartlistade celler
+setings_modCategory3_name: "Fels\xF6kning"
+setings_modCategory3_setting1_desc: Visa vaktens namn, klass och cell
+setings_modCategory3_setting1_name: Visa vaktdetaljer
+settings_modDesc: "Version 0.18\nVakter skyddar mot fientliga akt\xF6rer"
+settings_modName: Skyddsvakter

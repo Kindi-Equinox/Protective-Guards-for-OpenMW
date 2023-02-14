@@ -1,0 +1,22 @@
+settings_modName: Protective Guards
+settings_modDesc: "Version 0.18\nGuards protect against hostile actors"
+setings_modCategory1_name: "Options"
+setings_modCategory1_desc: "---"
+setings_modCategory1_setting1_name: "Protective Guards"
+setings_modCategory1_setting1_desc: "Enable Protective Guards"
+setings_modCategory1_setting2_name: "Search Guard Distance Exteriors"
+setings_modCategory1_setting2_desc: "The search radius for searching nearby guards in exterior cells"
+setings_modCategory1_setting3_name: "Search Guard Distance Interiors"
+setings_modCategory1_setting3_desc: "The search radius for searching nearby guards in interior cells"
+setings_modCategory1_setting4_name: "Search Guard In Nearby Adjacent Cells"
+setings_modCategory1_setting4_desc: "Guards in nearby adjacent cells will also come to protect. Requires Pursuit"
+setings_modCategory1_setting5_name: "Search Guard of Class"
+setings_modCategory1_setting5_desc: "What class of NPC is considered a 'Guard' class"
+
+
+setings_modCategory2_name: "Blacklisted Cells"
+setings_modCategory2_desc: "Protective Guards is disabled for these cells"
+
+setings_modCategory3_name: "Debug"
+setings_modCategory3_setting1_name: "Show Guard Details"
+setings_modCategory3_setting1_desc: "Show Guard Name, Class and Cell"

@@ -1,0 +1,28 @@
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: Opcje
+setings_modCategory1_setting1_desc: "W\u0142\u0105cz os\u0142ony ochronne"
+setings_modCategory1_setting1_name: "Os\u0142ony ochronne"
+setings_modCategory1_setting2_desc: "Promie\u0144 wyszukiwania do wyszukiwania pobliskich\
+  \ stra\u017Cnik\xF3w w celach zewn\u0119trznych"
+setings_modCategory1_setting2_name: "Przeszukaj zewn\u0119trzne odleg\u0142o\u015B\
+  ci stra\u017Cnik\xF3w"
+setings_modCategory1_setting3_desc: "Promie\u0144 wyszukiwania do wyszukiwania pobliskich\
+  \ stra\u017Cnik\xF3w w celach wewn\u0119trznych"
+setings_modCategory1_setting3_name: "Przeszukaj wn\u0119trza stra\u017Cnik\xF3w na\
+  \ odleg\u0142o\u015B\u0107"
+setings_modCategory1_setting4_desc: "Stra\u017Cnicy w pobliskich s\u0105siednich celach\
+  \ r\xF3wnie\u017C przyjd\u0105, aby chroni\u0107. Wymaga po\u015Bcigu"
+setings_modCategory1_setting4_name: "Przeszukaj stra\u017Cnika w pobliskich s\u0105\
+  siednich celach"
+setings_modCategory1_setting5_desc: "Jaka klasa NPC jest uwa\u017Cana za klas\u0119\
+  \ \u201EStra\u017Cnika\u201D."
+setings_modCategory1_setting5_name: "Szukaj stra\u017Cnika klasy"
+setings_modCategory2_desc: "Os\u0142ony ochronne s\u0105 wy\u0142\u0105czone dla tych\
+  \ kom\xF3rek"
+setings_modCategory2_name: "Kom\xF3rki z czarnej listy"
+setings_modCategory3_name: "Odpluskwi\u0107"
+setings_modCategory3_setting1_desc: "Poka\u017C nazw\u0119 stra\u017Cnika, klas\u0119\
+  \ i kom\xF3rk\u0119"
+setings_modCategory3_setting1_name: "Poka\u017C szczeg\xF3\u0142y stra\u017Cnika"
+settings_modDesc: "Wersja 0.18\nStra\u017Cnicy chroni\u0105 przed wrogimi aktorami"
+settings_modName: "Os\u0142ony ochronne"

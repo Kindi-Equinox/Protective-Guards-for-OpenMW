@@ -1,0 +1,27 @@
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: Mga pagpipilian
+setings_modCategory1_setting1_desc: Paganahin ang Protective Guards
+setings_modCategory1_setting1_name: Mga Proteksiyong Guard
+setings_modCategory1_setting2_desc: Ang radius ng paghahanap para sa paghahanap ng
+  mga kalapit na guwardiya sa mga panlabas na selula
+setings_modCategory1_setting2_name: Maghanap sa Mga Panlabas ng Distance ng Guard
+setings_modCategory1_setting3_desc: Ang radius ng paghahanap para sa paghahanap ng
+  mga kalapit na guwardiya sa loob ng mga cell
+setings_modCategory1_setting3_name: Maghanap sa Mga Interior ng Distance ng Guard
+setings_modCategory1_setting4_desc: Darating din ang mga guwardiya sa kalapit na katabing
+  mga cell upang protektahan. Nangangailangan ng Pagtugis
+setings_modCategory1_setting4_name: Maghanap ng Guard Sa Kalapit na Mga Katabi na
+  Cell
+setings_modCategory1_setting5_desc: Anong klase ng NPC ang itinuturing na klase ng
+  'Guard'
+setings_modCategory1_setting5_name: Search Guard ng Klase
+setings_modCategory2_desc: Naka-disable ang Protective Guards para sa mga cell na
+  ito
+setings_modCategory2_name: Mga Naka-blacklist na Cell
+setings_modCategory3_name: I-debug
+setings_modCategory3_setting1_desc: Ipakita ang Pangalan ng Guard, Klase at Cell
+setings_modCategory3_setting1_name: Ipakita ang Mga Detalye ng Guard
+settings_modDesc: 'Bersyon 0.18
+
+  Ang mga bantay ay nagpoprotekta laban sa mga masasamang aktor'
+settings_modName: Mga Proteksiyong Guard

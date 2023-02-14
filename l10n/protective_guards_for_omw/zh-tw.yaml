@@ -1,0 +1,27 @@
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: "\u9078\u9805"
+setings_modCategory1_setting1_desc: "\u555F\u7528\u9632\u8B77\u885B\u58EB"
+setings_modCategory1_setting1_name: "\u9632\u8B77\u7F69"
+setings_modCategory1_setting2_desc: "\u5728\u5916\u90E8\u7262\u623F\u4E2D\u641C\u7D22\
+  \u9644\u8FD1\u5B88\u885B\u7684\u641C\u7D22\u534A\u5F91"
+setings_modCategory1_setting2_name: "\u641C\u7D22\u9632\u8B77\u8DDD\u96E2\u5916\u89C0"
+setings_modCategory1_setting3_desc: "\u5728\u5167\u90E8\u55AE\u5143\u683C\u4E2D\u641C\
+  \u7D22\u9644\u8FD1\u8B66\u885B\u7684\u641C\u7D22\u534A\u5F91"
+setings_modCategory1_setting3_name: "\u641C\u7D22\u9632\u8B77\u8DDD\u96E2\u5167\u98FE"
+setings_modCategory1_setting4_desc: "\u9644\u8FD1\u76F8\u9130\u7262\u623F\u7684\u5B88\
+  \u885B\u4E5F\u6703\u524D\u4F86\u4FDD\u8B77\u3002\u9700\u8981\u8FFD\u6C42"
+setings_modCategory1_setting4_name: "\u5728\u9644\u8FD1\u7684\u76F8\u9130\u55AE\u5143\
+  \u683C\u4E2D\u641C\u7D22\u5B88\u885B"
+setings_modCategory1_setting5_desc: "\u4EC0\u9EBC\u7D1A\u5225\u7684 NPC \u88AB\u8A8D\
+  \u70BA\u662F\u201C\u8B66\u885B\u201D\u7D1A\u5225"
+setings_modCategory1_setting5_name: "\u4E00\u7D1A\u641C\u67E5\u54E1"
+setings_modCategory2_desc: "\u9019\u4E9B\u55AE\u5143\u7684\u4FDD\u8B77\u885B\u58EB\
+  \u88AB\u7981\u7528"
+setings_modCategory2_name: "\u5217\u5165\u9ED1\u540D\u55AE\u7684\u5C0F\u5340"
+setings_modCategory3_name: "\u8ABF\u8A66"
+setings_modCategory3_setting1_desc: "\u986F\u793A\u8B66\u885B\u59D3\u540D\u3001\u73ED\
+  \u7D1A\u548C\u55AE\u5143\u683C"
+setings_modCategory3_setting1_name: "\u986F\u793A\u8B66\u885B\u8A73\u7D30\u4FE1\u606F"
+settings_modDesc: "\u7248\u672C 0.18\n\u5B88\u885B\u4FDD\u8B77\u514D\u53D7\u6575\u5C0D\
+  \u884C\u70BA\u8005"
+settings_modName: "\u9632\u8B77\u7F69"

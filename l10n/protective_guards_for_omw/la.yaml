@@ -1,0 +1,24 @@
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: Optiones
+setings_modCategory1_setting1_desc: Admitte Custodes tutelae
+setings_modCategory1_setting1_name: Custodes tutelae
+setings_modCategory1_setting2_desc: Radii investigationis quaerendi prope custodes
+  in cellulis exterioribus
+setings_modCategory1_setting2_name: Quaerere custodiae distantia exteriorum
+setings_modCategory1_setting3_desc: Radii inquisitionis ad explorandos prope custodes
+  in cellulis interioribus
+setings_modCategory1_setting3_name: Search Cohortis Distantia interiora
+setings_modCategory1_setting4_desc: Custodes in vicinis cellulis vicinis etiam praesidio
+  venient. Requirit persequi
+setings_modCategory1_setting4_name: Quaerere custodiae in vicinis cellulis vicinis
+setings_modCategory1_setting5_desc: Quod genus NPC consideratur "custodia" classis?
+setings_modCategory1_setting5_name: Quaerere custodiam Classis
+setings_modCategory2_desc: Custodes tutelae is erret pro his cellulis
+setings_modCategory2_name: notarat Cellulae
+setings_modCategory3_name: Debug
+setings_modCategory3_setting1_desc: Custodi nomen, Classis et Cell
+setings_modCategory3_setting1_name: Monstra custodiae Details
+settings_modDesc: 'Version 0.18
+
+  Custodes tueri contra actores hostiles'
+settings_modName: Custodes tutelae

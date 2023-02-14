@@ -1,0 +1,24 @@
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: Pilihan
+setings_modCategory1_setting1_desc: Aktifkan Penjaga Pelindung
+setings_modCategory1_setting1_name: Penjaga Pelindung
+setings_modCategory1_setting2_desc: Radius pencarian untuk mencari penjaga terdekat
+  di sel eksterior
+setings_modCategory1_setting2_name: Cari Penjaga Jarak Eksterior
+setings_modCategory1_setting3_desc: Radius pencarian untuk mencari penjaga terdekat
+  di sel interior
+setings_modCategory1_setting3_name: Cari Penjaga Jarak Interior
+setings_modCategory1_setting4_desc: Penjaga di sel terdekat juga akan datang untuk
+  melindungi. Membutuhkan Pengejaran
+setings_modCategory1_setting4_name: Penjaga Pencarian Di Sel Berdekatan Terdekat
+setings_modCategory1_setting5_desc: Kelas NPC apa yang dianggap sebagai kelas 'Penjaga'
+setings_modCategory1_setting5_name: Penjaga Pencarian Kelas
+setings_modCategory2_desc: Penjaga Pelindung dinonaktifkan untuk sel-sel ini
+setings_modCategory2_name: Sel Daftar Hitam
+setings_modCategory3_name: Debug
+setings_modCategory3_setting1_desc: Tampilkan Nama Penjaga, Kelas dan Sel
+setings_modCategory3_setting1_name: Tampilkan Detail Penjaga
+settings_modDesc: 'Versi 0.18
+
+  Penjaga melindungi dari aktor yang bermusuhan'
+settings_modName: Penjaga Pelindung
